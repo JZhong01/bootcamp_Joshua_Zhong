@@ -1,6 +1,4 @@
-# bootcamp_Joshua_Zhong
-
-# Bootcamp Repository
+# Bootcamp Repository 
 ## Folder Structure
 - **homework/** → All homework contributions will be submitted here.
 - **project/** → All project contributions will be submitted here.
