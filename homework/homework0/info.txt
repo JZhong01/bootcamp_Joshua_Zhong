@@ -1,0 +1,2 @@
+# Hello World
+# Created repo for this class. All homework and assignments will go here according to README file
