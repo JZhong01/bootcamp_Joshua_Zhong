@@ -1,0 +1,3 @@
+This project aims to develop machine learning models to forecast the stock prices of the top five publicly traded U.S. companies by market capitalization — NVIDIA, Microsoft, Apple, Alphabet, and Amazon — using historical data sourced from Yahoo Finance in order to inform trading strategies and risk management for our firm’s portfolio.
+
+The primary stakeholder is the portfolio manager, with analysts and quantitative researchers serving as end users who will leverage the model’s outputs to guide trades. The model will provide predictive insights, producing forecasted share prices as the key metric. These forecasts, combined with confidence intervals, will act as the actionable artifact that the trading desk can use for decision-making.

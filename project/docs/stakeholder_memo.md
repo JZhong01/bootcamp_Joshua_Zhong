@@ -1,0 +1,3 @@
+# Stakeholder Memo
+
+The portfolio management team relies heavily on the movements of Apple, Microsoft, NVIDIA, Alphabet, and Amazon, which collectively represent ~25% of the U.S. equity market. Our current strategies are backward-looking, and we lack predictive tools to anticipate price shifts in these mega-cap stocks. To address this, we propose building a machine learning–based forecasting model using historical Yahoo Finance data. The model will generate daily price forecasts with confidence intervals, providing actionable insights for timing trades, managing concentration risk, and improving risk-adjusted returns.
