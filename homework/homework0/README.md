@@ -1,7 +1,6 @@
 # Bootcamp Repository 
 ## Folder Structure
-- **homework/** → All homework contributions will be submitted here. Assignments that involve contributing to the project will have a copy of the homework in that given stage in their respective homework folder as well as in the project. 
-
+- **homework/** → All homework contributions will be submitted here.
 - **project/** → All project contributions will be submitted here.
 - **class_materials/** → Local storage for class materials. Never pushed to
 GitHub.
